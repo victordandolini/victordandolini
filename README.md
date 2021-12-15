@@ -1,4 +1,4 @@
-<h2 align="center">Olá, eu sou a Victor Dandolini, estudante de programação e tecnologia!</h1>
+<h2 align="center">Olá, eu sou a Victor Dandolini, estudante de programação e novas tecnologias!</h1>
 <div align="center">
   <a href="https://github.com/victordandolini">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victordandolini&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -10,7 +10,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<!--   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
   
 </div>
   
