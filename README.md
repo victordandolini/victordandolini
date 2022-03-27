@@ -1,4 +1,4 @@
-<h2 align="center">Olá, sou desenvolvedor Front-end em busca de oportunidade de Trabalho</h1>
+<h2 align="center"> Fullstack developer Jr em busca de oportunidades</h1>
 <div align="center">
   <a href="https://github.com/victordandolini">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victordandolini&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
