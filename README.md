@@ -21,27 +21,30 @@
 
 <h3>🇧🇷 pt-br</h3>
 
-Desde 2020 estudando programação. Atualmente estou buscando meu primeiro trabalho como desenvolvedor Full Stack utilizando ReactJS e Node.js.
+Olá meu nome é Victor Dandolini, eu gosto de praticar esportes, assistir a series, coisas geek, festas com amigos, interagir com meus 3 felinos e é claro um trabalho que tenha como consequência crescimento financeiro.
 
-Desde criança sempre fui fascinado por computadores e tecnologia, sempre gostei de games e de desafios. Acredito que a ciência e a tecnologia têm poder transformar o mundo e de forma significativa trazer qualidade de vida e conforto.
+Desde 2020 estudo programação. Atualmente estou buscando meu primeiro trabalho como desenvolvedor Full Stack utilizando ReactJS e Node.js.
 
-Fique à vontade para me chamar, estou sempre à disposição e querendo fazer amigos, principalmente da área Tech!
+Desde criança sempre fui fascinado por computadores e tecnologia, um Geek, sempre gostei de games e de desafios. Acredito que a ciência e a tecnologia têm poder transformar o mundo e de forma significativa trazer qualidade de vida e conforto as pessoas.
 
+Venho realizando bootcamps da <a href="https://www.dio.me/">DIO - Digital Innovation One</a> com diversas tecnologias, mas principalmente os relacionados a JavaScript e seus frameworks e bibliotecas. 
 
-
+Fique à vontade para me chamar e conhecer nos meus repositórios alguns projetos utilizados como estudo, estou sempre à disposição e querendo fazer amigos, principalmente da área Tech!
 
 <h3>🇺🇸 en</h3>
 
-Since 2020 studying programming. I'm currently looking for my first job as a Full Stack developer using ReactJS and Node.js.
+Hello my name is Victor Dandolini, I like to play sports, watch series, geek things, parties with friends, interact with my 3 cats and of course a job that has financial growth as a consequence.
 
-Since I was a child I have always been fascinated by computers and technology, I have always liked games and challenges. I believe that science and technology have the power to transform the world and significantly bring quality of life and comfort.
+Since 2020 I study programming. I'm currently looking for my first job as a Full Stack developer using ReactJS and Node.js.
 
-Feel free to call me, I'm always available and wanting to make friends, especially from the Tech area!
+Since I was a child I was always fascinated by computers and technology, a Geek, I always liked games and challenges. I believe that science and technology have the power to transform the world and significantly bring quality of life and comfort to people.
+
+I've been doing bootcamps from <a href="https://www.dio.me/">DIO - Digital Innovation One</a> with different technologies, but mainly those related to JavaScript and its frameworks and libraries.
+
+Feel free to call me and get to know in my repositories some projects used as a study, I'm always available and wanting to make friends, especially in the Tech area!
 
 ##
 
-
- 
 <div align="center"> 
   <a href="https://instagram.com/victordandolini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!--  	<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
