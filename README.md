@@ -14,10 +14,11 @@
 <!--   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 </div>
 
-<img align="right" width="300em" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
 <div>
 <h2>🇧🇷 pt-br</h2>
+  
+<img align="right" width="300em" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
 <p>Olá, meu nome é Victor Dandolini, sou formado em Teologia e Direito, com pós-graduação em Gestão de Segurança Publica, Analise e Desenvolvimento de Softwares (Cursando) e Projetos de Aplicativos Moveis Multiplataforma (Cursando).</p>
 
