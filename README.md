@@ -1,5 +1,6 @@
 <h1 align="center">Bem vindo ao meu GitHub, eu sou o Victor Dandolini!</h1>
 
+<img align="right" width="300em" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"/>
 
 <h3>🇧🇷 pt-br</h3>
 
@@ -10,7 +11,7 @@ Desde criança sempre fui fascinado por computadores e tecnologia, sempre gostei
 Fique à vontade para me chamar, estou sempre à disposição e querendo fazer amigos, principalmente da área Tech!
 
 
-<img align="right" width="300em" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"/>
+
 
 <h3>🇺🇸 en</h3>
 
