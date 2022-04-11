@@ -20,7 +20,7 @@
 
 <h3>🇧🇷 pt-br</h3>
 
-Olá meu nome é Victor Dandolini, eu gosto de praticar esportes, assistir a series, coisas geek, festas com amigos, brincar com meus 3 gatos e é claro um trabalho que tenha como consequência crescimento financeiro.
+Olá meu nome é Victor Dandolini e eu gosto de praticar esportes, assistir a series, coisas geek, festas com amigos, brincar com meus 3 gatos e é claro um trabalho que tenha como consequência crescimento financeiro.
 
 Desde 2020 estudo programação. Atualmente estou buscando meu primeiro trabalho como desenvolvedor Full Stack utilizando ReactJS e Node.js.
 
@@ -32,7 +32,7 @@ Fique à vontade para me chamar e conhecer nos meus repositórios alguns projeto
 
 <h3>🇺🇸 en</h3>
 
-Hello my name is Victor Dandolini, I like to play sports, watch series, geek stuff, parties with friends, play with my 3 cats and of course a job that has financial growth as a consequence.
+Hello my name is Victor Dandolini and i like to play sports, watch series, geek stuff, parties with friends, play with my 3 cats and of course a job that has financial growth as a consequence.
 
 Since 2020 I study programming. I'm currently looking for my first job as a Full Stack developer using ReactJS and Node.js.
 
