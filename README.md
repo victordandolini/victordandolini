@@ -32,7 +32,7 @@
 
 <p>Tenho a certeza de que estou pronto para integrar um grupo e fazer oque sempre fiz de melhor, me adaptar, aprender e evoluir.</p>
 
-<p>Minhas principais Soft Skills são:</p>
+<p><strong>Minhas principais Soft Skills são:</strong></p>
 <ul>
   <li>Iniciativa (-Deixa comigo!)</li>
   <li>Facilidade em se comunicar (Sou praticamente um vereador do bairro)</li>
@@ -60,7 +60,7 @@
 
 <p>I'm sure I'm ready to join a group and do what I've always done best, adapt, learn and evolve.</p>
 
-<p>My main Soft Skills are:</p>
+<p><strong>My main Soft Skills are:</strong></p>
 <ul>
   <li>Initiative (-Leave it to me!)</li>
   <li>Easy to communicate (I'm practically a city councilor)</li>
