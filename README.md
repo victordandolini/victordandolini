@@ -13,10 +13,9 @@
   <img align="center" alt="Node" height="30" width="30" src="https://user-images.githubusercontent.com/4727/38117885-69734bbc-336c-11e8-8653-86b0fa071896.png">
 <!--   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 </div>
-  
-##
 
 <img align="right" width="300em" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
+
 <div>
 <h2>🇧🇷 pt-br</h2>
 
@@ -46,7 +45,7 @@
 <p>Fique à vontade para me chamar e conhecer nos meus repositórios alguns projetos utilizados como estudo, estou sempre à disposição e querendo fazer amigos, principalmente da área Tech!</p>
 </div>
 
-##
+<div>
 <h2>🇺🇸 en</h2>
 
 <p>Hello, my name is Victor Dandolini, I have a degree in Theology and Law, with a postgraduate degree in Public Security Management, Software Analysis and Development (Cursing) and Multiplatform Mobile Application Projects (Cursing).</p>
@@ -73,6 +72,7 @@
  </ul>
 
 <p>Feel free to call me and get to know in my repositories some projects used as a study, I'm always available and wanting to make friends, especially in the Tech area!</p>
+</div>
 
 ##
 
