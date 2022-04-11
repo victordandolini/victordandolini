@@ -20,7 +20,7 @@
 
 <h3>🇧🇷 pt-br</h3>
 
-Olá, meu nome é Victor Dandolini, sou formado em Teologia e Direito, com pós-graduação em Gestão de Segurança Publica, Analise e Desenvolvimento de Softwares e Projetos de Aplicativos Moveis Multiplataforma.
+Olá, meu nome é Victor Dandolini, sou formado em Teologia e Direito, com pós-graduação em Gestão de Segurança Publica, Analise e Desenvolvimento de Softwares (Cursando) e Projetos de Aplicativos Moveis Multiplataforma (Cursando).
 
 Eu gosto de praticar esportes e ter uma alimentação balanceada e saudável, claro que não deixo de apreciar um bom drink ou uma comida diferenciada as vezes, sempre procuro estar com meus amigos e familiares (incluindo meus 3 gatinhos), assisto a series, jogo games do momento e curto coisas geek na internet. A felicidade não está nas coisas ou nas pessoas mas em nos mesmos então vamos viver e sonhar o que importa é nossa alegria!
 
@@ -30,7 +30,7 @@ Desde criança eu era um geek fascinado por computadores e tecnologia, sempre go
 
 Venho realizando bootcamps da <a href="https://www.dio.me/"> DIO - Digital Innovation One</a> com diversas tecnologias, mas principalmente os relacionados a JavaScript e seus frameworks e bibliotecas.
 
-Tenho a certeza de que estou pronto para integrar um grupo e fazer oque sempre fiz de melhor desde cedo, me adaptar, aprender e evoluir.
+Tenho a certeza de que estou pronto para integrar um grupo e fazer oque sempre fiz de melhor, me adaptar, aprender e evoluir.
 
 Minhas principais Soft Skills são:
 <ul>
