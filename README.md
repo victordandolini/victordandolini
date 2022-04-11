@@ -35,12 +35,12 @@ Tenho a certeza de que estou pronto para integrar um grupo e fazer oque sempre f
 Minhas principais Soft Skills são:
 <ul>
   <li>Iniciativa (Deixa comigo!)</li>
-  <li>Facilidade em se comunicar (Sou Praticamente um Vereador do bairro)</li>
+  <li>Facilidade em se comunicar (Sou praticamente um vereador do bairro)</li>
   <li>Capacidade para aprender as principais tecnologias de desenvolvimento da empresa ("-Ao Infinito e além")</li>
   <li>Apoiar os colegas e trabalhar em equipe ("-Um por todos e todos por um!")</li>
   <li>Abertura para receber e dar feedbacks (Fala que eu te escuto)</li>
   <li>Comprometimento com o resultado ("Missão dada é missão cumprida")</li>
-  <li>Educação e respeito (Nem precisa comentar)</li>
+  <li>Educação e respeito (Isso nem precisa comentar)</li>
  </ul>
 
 Fique à vontade para me chamar e conhecer nos meus repositórios alguns projetos utilizados como estudo, estou sempre à disposição e querendo fazer amigos, principalmente da área Tech!
