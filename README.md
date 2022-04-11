@@ -20,7 +20,7 @@
 <div>
 <h3>🇧🇷 pt-br</h3>
 
-<p>Olá, meu nome é Victor Dandolini, sou formado em Teologia e Direito, com pós-graduação em Gestão de Segurança Publica, Analise e Desenvolvimento de Softwares (Cursando) e Projetos de Aplicativos Moveis Multiplataforma (Cursando).</p>
+<p>Olá, meu nome é Victor Dandolini, sou formado em Teologia e Direito, com pós-graduação em Gestão de Segurança Publica, Analise e Desenvolvimento de Softwares (Cursando) e Projetos de Aplicativos Moveis Multiplataforma (Cursando).</p><br/>
 
 <p>Eu gosto de praticar esportes e ter uma alimentação balanceada e saudável, claro que não deixo de apreciar um bom drink ou uma comida diferenciada as vezes, sempre procuro estar com meus amigos e familiares (incluindo meus 3 gatinhos), assisto a series, jogo games do momento e curto coisas geek na internet. A felicidade não está nas coisas ou nas pessoas mas em nos mesmos então vamos viver e sonhar o que importa é nossa alegria!</p>
 
