@@ -17,7 +17,7 @@
 ##
 
 <img align="right" width="300em" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
-
+<div>
 <h3>🇧🇷 pt-br</h3>
 
 <p>Olá, meu nome é Victor Dandolini, sou formado em Teologia e Direito, com pós-graduação em Gestão de Segurança Publica, Analise e Desenvolvimento de Softwares (Cursando) e Projetos de Aplicativos Moveis Multiplataforma (Cursando).</p>
@@ -44,6 +44,7 @@ Minhas principais Soft Skills são:
  </ul>
 
 <p>Fique à vontade para me chamar e conhecer nos meus repositórios alguns projetos utilizados como estudo, estou sempre à disposição e querendo fazer amigos, principalmente da área Tech!</p>
+</div>
 
 ##
 
