@@ -20,7 +20,7 @@
 
 <h3>🇧🇷 pt-br</h3>
 
-Olá, meu nome é Victor Dandolini sou formado em Teologia e Direito, com pós-graduação em Gestão de Segurança Publica, Analise e Desenvolvimento de Softwares e Projetos de Aplicativos Moveis Multiplataforma.
+Olá, meu nome é Victor Dandolini, sou formado em Teologia e Direito, com pós-graduação em Gestão de Segurança Publica, Analise e Desenvolvimento de Softwares e Projetos de Aplicativos Moveis Multiplataforma.
 
 Eu gosto de praticar esportes e ter uma alimentação balanceada e saudável, claro que não deixo de apreciar um bom drink ou uma comida diferenciada as vezes, sempre procuro estar com meus amigos e familiares (incluindo meus 3 gatinhos), assisto a series, jogo games do momento e curto coisas geek na internet. A felicidade não está nas coisas ou nas pessoas mas em nos mesmos então vamos viver e sonhar o que importa é nossa alegria!
 
@@ -46,7 +46,7 @@ Fique à vontade para me chamar e conhecer nos meus repositórios alguns projeto
 
 <h3>🇺🇸 en</h3>
 
-Hello, my name is Victor Dandolini I am graduated in Theology and Law, with a postgraduate degree in Public Security Management, Software Analysis and Development and Multiplatform Mobile Application Projects.
+Hello, my name is Victor Dandolini, I am graduated in Theology and Law, with a postgraduate degree in Public Security Management, Software Analysis and Development and Multiplatform Mobile Application Projects.
 
 I like to practice sports and have a balanced and healthy diet, of course I enjoy a good drink or a different food sometimes, I always try to be with my friends and family (including my 3 kittens), I watch series, play games of the moment and I like geek things on the internet. Happiness is not in things or people but in ourselves so let's live and dream what matters is our joy!
 
