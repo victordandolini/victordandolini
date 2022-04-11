@@ -20,11 +20,11 @@
 
 <h3>🇧🇷 pt-br</h3>
 
-Olá meu nome é Victor Dandolini sou formado em Teologia e Direito, com pós-graduação em Gestão de Segurança Publica, Analise e Desenvolvimento de Softwares e Projetos de Aplicativos Moveis Multi-Plataforma.
+Olá meu nome é Victor Dandolini sou formado em Teologia e Direito, com pós-graduação em Gestão de Segurança Publica, Analise e Desenvolvimento de Softwares e Projetos de Aplicativos Moveis Multiplataforma.
 
-Eu gosto de praticar esportes e ter uma alimentação balanceada e saudavel, claro que não deixo de apreciar um bom drink ou uma comida diferenciada as vezes, sempre procuro estar com meus amigos e familiares (incluindo meus 3 gatinhos), assisto a series, jogo games do momento e curto coisas geek na internet. A felicidade não esta nas coisas ou nas pessoas mas em nos mesmos então vamos viver e sonhar oque importa é nossa alegria!
+Eu gosto de praticar esportes e ter uma alimentação balanceada e saudável, claro que não deixo de apreciar um bom drink ou uma comida diferenciada as vezes, sempre procuro estar com meus amigos e familiares (incluindo meus 3 gatinhos), assisto a series, jogo games do momento e curto coisas geek na internet. A felicidade não está nas coisas ou nas pessoas mas em nos mesmos então vamos viver e sonhar o que importa é nossa alegria!
 
-Em 2021 comecei a estudar programação algo que deveria ter feito a muito tempo, mas tudo acontecer na hora que tem que ser. Sou Policial Penal a 8 anos, mas como tenho uma escala de trabalho bem flexivel posso me dedicar a fazer oque eu gosto e apartir de então estar buscando minha primeira oportunidade de adquirir experiencia e trabalhar como desenvolvedor Full Stack utilizando ReactJS e Node.js, mas também estou aberto a migrar pra outras techs.
+Em 2021 comecei a estudar programação algo que deveria ter feito a muito tempo, mas tudo acontecer na hora que tem que ser. Sou Policial Penal a 8 anos, mas como tenho uma escala de trabalho bem flexível posso me dedicar a fazer o que eu gosto e a partir de então estar buscando minha primeira oportunidade de adquirir experiencia e trabalhar como desenvolvedor Full Stack utilizando ReactJS e Node.js, mas também estou aberto a migrar pra outras tech’s.
 
 Desde criança eu era um geek fascinado por computadores e tecnologia, sempre gostei de games e de desafios e competições. Acredito que a ciência e a tecnologia têm poder transformar o mundo e de forma significativa trazer qualidade de vida e conforto as pessoas.
 
@@ -33,24 +33,24 @@ Venho realizando bootcamps da <a href="https://www.dio.me/"> DIO - Digital Innov
 Tenho a certeza de que estou pronto para integrar um grupo e fazer oque sempre fiz de melhor desde cedo, me adaptar, aprender e evoluir.
 
 <ul>Minhas principais Soft Skills são:
-  <li>Iniciativa(Deixa comigo!)</li>
+  <li>Iniciativa (Deixa comigo!)</li>
   <li>Facilidade em se comunicar (Sou Praticamente um Vereador do bairro)</li>
-  <li>Capacidade para aprender as principais tecnologias de desenvolvimento da empresa("-Ao Infinito e além")</li>
-  <li>Apoiar os colegas e trabalhar em equipe("-Um por todos e todos por um!")</li>
-  <li>Abertura para receber e dar feedbacks(Fala que eu te escuto)</li>
-  <li>Comprometimento com o resultado("Missão dada é missão cumprida")</li>
-  <li>Educação e respeito(Nem precisa comentar)</li>
+  <li>Capacidade para aprender as principais tecnologias de desenvolvimento da empresa ("-Ao Infinito e além")</li>
+  <li>Apoiar os colegas e trabalhar em equipe ("-Um por todos e todos por um!")</li>
+  <li>Abertura para receber e dar feedbacks (Fala que eu te escuto)</li>
+  <li>Comprometimento com o resultado ("Missão dada é missão cumprida")</li>
+  <li>Educação e respeito (Nem precisa comentar)</li>
  </ul>
 
 Fique à vontade para me chamar e conhecer nos meus repositórios alguns projetos utilizados como estudo, estou sempre à disposição e querendo fazer amigos, principalmente da área Tech!
 
 <h3>🇺🇸 en</h3>
 
-Hello my name is Victor Dandolini I am graduated in Theology and Law, with a postgraduate degree in Public Security Management, Software Analysis and Development and Multi-Platform Mobile Application Projects.
+Hello my name is Victor Dandolini I am graduated in Theology and Law, with a postgraduate degree in Public Security Management, Software Analysis and Development and Multiplatform Mobile Application Projects.
 
-I like to practice sports and have a balanced and healthy diet, of course I enjoy a good drink or different food sometimes, I always try to be with my friends and family (including my 3 kittens), I watch series, play games of the moment and I like geek things on the internet. Happiness is not in things or people but in ourselves so let's live and dream what matters is our joy!
+I like to practice sports and have a balanced and healthy diet, of course I enjoy a good drink or a different food sometimes, I always try to be with my friends and family (including my 3 kittens), I watch series, play games of the moment and I like geek things on the internet. Happiness is not in things or people but in ourselves so let's live and dream what matters is our joy!
 
-In 2021 I started to study programming something I should have done a long time ago, but everything happens when it has to be. I've been a Criminal Police officer for 8 years, but as I have a very flexible work schedule I can dedicate myself to doing what I like and from then on, I'm looking for my first opportunity to acquire experience and work as a Full Stack developer using ReactJS and Node.js, but I'm also open to migrating to other techs.
+In 2021 I started to study programming something I should have done a long time ago, but everything happens when it has to be. I've been a Criminal Police officer for 8 years, but as I have a very flexible work schedule I can dedicate myself to doing what I like and from then on, I'm looking for my first opportunity to acquire experience and work as a Full Stack developer using ReactJS and Node.js , but I'm also open to migrating to other tech's.
 
 Since I was a child I was a geek fascinated by computers and technology, I always liked games and challenges and competitions. I believe that science and technology have the power to transform the world and significantly bring quality of life and comfort to people.
 
@@ -61,14 +61,15 @@ I'm sure I'm ready to join a group and do what I've always done best from an ear
 <ul>My main Soft Skills are:
   <li>Initiative (Leave it to me!)</li>
   <li>Easy to communicate (I'm practically a neighborhood councilor)</li>
-  <li>Ability to learn the company's core development technologies ("-To Infinity and beyond")</li>
-  <li>Supporting colleagues and working as a team("-One for all and all for one!")</li>
-  <li>Openness to receive and give feedback(Tell me I hear you)</li>
-  <li>Commitment to the result("Mission given is mission accomplished")</li>
-  <li>Education and respect(No need to comment)</li>
+  <li>Ability to learn the company's core development technologies ("-To Infinity and Beyond")</li>
+  <li>Supporting colleagues and working as a team ("-One for all and all for one!")</li>
+  <li>Openness to receive and give feedback (Say that I hear you)</li>
+  <li>Commitment to the result ("Mission given is mission accomplished")</li>
+  <li>Education and Respect (No need to comment)</li>
  </ul>
 
 Feel free to call me and get to know in my repositories some projects used as a study, I'm always available and wanting to make friends, especially in the Tech area!
+
 ##
 
 <div align="center"> 
