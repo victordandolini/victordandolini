@@ -27,7 +27,7 @@ Desde 2020 estudo programação. Atualmente estou buscando meu primeiro trabalho
 
 Desde criança sempre fui fascinado por computadores e tecnologia, um Geek, sempre gostei de games e de desafios. Acredito que a ciência e a tecnologia têm poder transformar o mundo e de forma significativa trazer qualidade de vida e conforto as pessoas.
 
-Venho realizando bootcamps da <a href="https://www.dio.me/"> DIO - Digital Innovation One </a> com diversas tecnologias, mas principalmente os relacionados a JavaScript e seus frameworks e bibliotecas. 
+Venho realizando bootcamps da <a href="https://www.dio.me/">DIO - Digital Innovation One</a>com diversas tecnologias, mas principalmente os relacionados a JavaScript e seus frameworks e bibliotecas. 
 
 Fique à vontade para me chamar e conhecer nos meus repositórios alguns projetos utilizados como estudo, estou sempre à disposição e querendo fazer amigos, principalmente da área Tech!
 
