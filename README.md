@@ -32,7 +32,8 @@ Venho realizando bootcamps da <a href="https://www.dio.me/"> DIO - Digital Innov
 
 Tenho a certeza de que estou pronto para integrar um grupo e fazer oque sempre fiz de melhor desde cedo, me adaptar, aprender e evoluir.
 
-<ul>Minhas principais Soft Skills são:
+Minhas principais Soft Skills são:
+<ul>
   <li>Iniciativa (Deixa comigo!)</li>
   <li>Facilidade em se comunicar (Sou Praticamente um Vereador do bairro)</li>
   <li>Capacidade para aprender as principais tecnologias de desenvolvimento da empresa ("-Ao Infinito e além")</li>
@@ -58,7 +59,8 @@ I've been doing bootcamps from <a href="https://www.dio.me/"> DIO - Digital Inno
 
 I'm sure I'm ready to join a group and do what I've always done best from an early age, adapt, learn and evolve.
 
-<ul>My main Soft Skills are:
+My main Soft Skills are:
+<ul>
   <li>Initiative (Leave it to me!)</li>
   <li>Easy to communicate (I'm practically a neighborhood councilor)</li>
   <li>Ability to learn the company's core development technologies ("-To Infinity and Beyond")</li>
