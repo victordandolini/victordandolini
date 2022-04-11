@@ -45,6 +45,8 @@ Minhas principais Soft Skills são:
 
 Fique à vontade para me chamar e conhecer nos meus repositórios alguns projetos utilizados como estudo, estou sempre à disposição e querendo fazer amigos, principalmente da área Tech!
 
+##
+
 <h3>🇺🇸 en</h3>
 
 Hello, my name is Victor Dandolini, I am graduated in Theology and Law, with a postgraduate degree in Public Security Management, Software Analysis and Development and Multiplatform Mobile Application Projects.
