@@ -16,21 +16,21 @@
   
 ##
 
-<img align="right" width="300em" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"/>
+<img align="right" width="300em" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
 <h3>🇧🇷 pt-br</h3>
 
-Olá, meu nome é Victor Dandolini, sou formado em Teologia e Direito, com pós-graduação em Gestão de Segurança Publica, Analise e Desenvolvimento de Softwares (Cursando) e Projetos de Aplicativos Moveis Multiplataforma (Cursando).
+<p>Olá, meu nome é Victor Dandolini, sou formado em Teologia e Direito, com pós-graduação em Gestão de Segurança Publica, Analise e Desenvolvimento de Softwares (Cursando) e Projetos de Aplicativos Moveis Multiplataforma (Cursando).</p>
 
-Eu gosto de praticar esportes e ter uma alimentação balanceada e saudável, claro que não deixo de apreciar um bom drink ou uma comida diferenciada as vezes, sempre procuro estar com meus amigos e familiares (incluindo meus 3 gatinhos), assisto a series, jogo games do momento e curto coisas geek na internet. A felicidade não está nas coisas ou nas pessoas mas em nos mesmos então vamos viver e sonhar o que importa é nossa alegria!
+<p>Eu gosto de praticar esportes e ter uma alimentação balanceada e saudável, claro que não deixo de apreciar um bom drink ou uma comida diferenciada as vezes, sempre procuro estar com meus amigos e familiares (incluindo meus 3 gatinhos), assisto a series, jogo games do momento e curto coisas geek na internet. A felicidade não está nas coisas ou nas pessoas mas em nos mesmos então vamos viver e sonhar o que importa é nossa alegria!</p>
 
-Em 2021 comecei a estudar programação algo que deveria ter feito a muito tempo, mas tudo acontecer na hora que tem que ser. Sou Policial Penal a 8 anos, mas como tenho uma escala de trabalho bem flexível posso me dedicar a fazer o que eu gosto e a partir de então estar buscando minha primeira oportunidade de adquirir experiencia e trabalhar como desenvolvedor Full Stack utilizando ReactJS e Node.js, mas também estou aberto a migrar pra outras tech’s.
+<p>Em 2021 comecei a estudar programação algo que deveria ter feito a muito tempo, mas tudo acontecer na hora que tem que ser. Sou Policial Penal a 8 anos, mas como tenho uma escala de trabalho bem flexível posso me dedicar a fazer o que eu gosto e a partir de então estar buscando minha primeira oportunidade de adquirir experiencia e trabalhar como desenvolvedor Full Stack utilizando ReactJS e Node.js, mas também estou aberto a migrar pra outras tech’s.</p>
 
-Desde criança eu era um geek fascinado por computadores e tecnologia, sempre gostei de games e de desafios e competições. Acredito que a ciência e a tecnologia têm poder transformar o mundo e de forma significativa trazer qualidade de vida e conforto as pessoas.
+<p>Desde criança eu era um geek fascinado por computadores e tecnologia, sempre gostei de games e de desafios e competições. Acredito que a ciência e a tecnologia têm poder transformar o mundo e de forma significativa trazer qualidade de vida e conforto as pessoas.</p>
 
-Venho realizando bootcamps da <a href="https://www.dio.me/"> DIO - Digital Innovation One</a> com diversas tecnologias, mas principalmente os relacionados a JavaScript e seus frameworks e bibliotecas. Claro também não posso esquecer dos excelentes canais do YouTube.
+<p>Venho realizando bootcamps da <a href="https://www.dio.me/"> DIO - Digital Innovation One</a> com diversas tecnologias, mas principalmente os relacionados a JavaScript e seus frameworks e bibliotecas. Claro também não posso esquecer dos excelentes canais do YouTube.</p>
 
-Tenho a certeza de que estou pronto para integrar um grupo e fazer oque sempre fiz de melhor, me adaptar, aprender e evoluir.
+<p>Tenho a certeza de que estou pronto para integrar um grupo e fazer oque sempre fiz de melhor, me adaptar, aprender e evoluir.</p>
 
 Minhas principais Soft Skills são:
 <ul>
@@ -43,21 +43,21 @@ Minhas principais Soft Skills são:
   <li>Educação e respeito (Isso nem precisa comentar)</li>
  </ul>
 
-Fique à vontade para me chamar e conhecer nos meus repositórios alguns projetos utilizados como estudo, estou sempre à disposição e querendo fazer amigos, principalmente da área Tech!
+<p>Fique à vontade para me chamar e conhecer nos meus repositórios alguns projetos utilizados como estudo, estou sempre à disposição e querendo fazer amigos, principalmente da área Tech!</p>
 
 ##
 
-Hello, my name is Victor Dandolini, I have a degree in Theology and Law, with a postgraduate degree in Public Security Management, Software Analysis and Development (Cursing) and Multiplatform Mobile Application Projects (Cursing).
+<p>Hello, my name is Victor Dandolini, I have a degree in Theology and Law, with a postgraduate degree in Public Security Management, Software Analysis and Development (Cursing) and Multiplatform Mobile Application Projects (Cursing).</p>
 
-I like to practice sports and have a balanced and healthy diet, of course I enjoy a good drink or a different food sometimes, I always try to be with my friends and family (including my 3 kittens), I watch series, play games of the moment and I like geek things on the internet. Happiness is not in things or people but in ourselves so let's live and dream what matters is our joy!
+<p>I like to practice sports and have a balanced and healthy diet, of course I enjoy a good drink or a different food sometimes, I always try to be with my friends and family (including my 3 kittens), I watch series, play games of the moment and I like geek things on the internet. Happiness is not in things or people but in ourselves so let's live and dream what matters is our joy!</p>
 
-In 2021 I started to study programming something I should have done a long time ago, but everything happens when it has to be. I've been a Criminal Police officer for 8 years, but as I have a very flexible work schedule I can dedicate myself to doing what I like and from then on, I'm looking for my first opportunity to acquire experience and work as a Full Stack developer using ReactJS and Node.js , but I'm also open to migrating to other tech's.
+<p>In 2021 I started to study programming something I should have done a long time ago, but everything happens when it has to be. I've been a Criminal Police officer for 8 years, but as I have a very flexible work schedule I can dedicate myself to doing what I like and from then on, I'm looking for my first opportunity to acquire experience and work as a Full Stack developer using ReactJS and Node.js , but I'm also open to migrating to other tech's.</p>
 
-Since I was a child I was a geek fascinated by computers and technology, I always liked games and challenges and competitions. I believe that science and technology have the power to transform the world and significantly bring quality of life and comfort to people.
+<p>Since I was a child I was a geek fascinated by computers and technology, I always liked games and challenges and competitions. I believe that science and technology have the power to transform the world and significantly bring quality of life and comfort to people.</p>
 
-I've been doing bootcamps from <a href="https://www.dio.me/"> DIO - Digital Innovation One</a> with different technologies, but mainly those related to JavaScript and its frameworks and libraries. Of course, I can't forget about the excellent YouTube channels either.
+<p>I've been doing bootcamps from <a href="https://www.dio.me/"> DIO - Digital Innovation One</a> with different technologies, but mainly those related to JavaScript and its frameworks and libraries. Of course, I can't forget about the excellent YouTube channels either.</p>
 
-I'm sure I'm ready to join a group and do what I've always done best, adapt, learn and evolve.
+<p>I'm sure I'm ready to join a group and do what I've always done best, adapt, learn and evolve.</p>
 
 My main Soft Skills are:
 <ul>
@@ -70,7 +70,7 @@ My main Soft Skills are:
   <li>Education and Respect (This doesn't even need to be commented)</li>
  </ul>
 
-Feel free to call me and get to know in my repositories some projects used as a study, I'm always available and wanting to make friends, especially in the Tech area!
+<p>Feel free to call me and get to know in my repositories some projects used as a study, I'm always available and wanting to make friends, especially in the Tech area!</p>
 
 ##
 
