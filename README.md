@@ -20,7 +20,7 @@
 <div>
 <h3>🇧🇷 pt-br</h3>
 
-<p>Olá, meu nome é Victor Dandolini, sou formado em Teologia e Direito, com pós-graduação em Gestão de Segurança Publica, Analise e Desenvolvimento de Softwares (Cursando) e Projetos de Aplicativos Moveis Multiplataforma (Cursando).</p><br/>
+<p>Olá, meu nome é Victor Dandolini, sou formado em Teologia e Direito, com pós-graduação em Gestão de Segurança Publica, Analise e Desenvolvimento de Softwares (Cursando) e Projetos de Aplicativos Moveis Multiplataforma (Cursando).</p>
 
 <p>Eu gosto de praticar esportes e ter uma alimentação balanceada e saudável, claro que não deixo de apreciar um bom drink ou uma comida diferenciada as vezes, sempre procuro estar com meus amigos e familiares (incluindo meus 3 gatinhos), assisto a series, jogo games do momento e curto coisas geek na internet. A felicidade não está nas coisas ou nas pessoas mas em nos mesmos então vamos viver e sonhar o que importa é nossa alegria!</p>
 
@@ -32,7 +32,7 @@
 
 <p>Tenho a certeza de que estou pronto para integrar um grupo e fazer oque sempre fiz de melhor, me adaptar, aprender e evoluir.</p>
 
-Minhas principais Soft Skills são:
+<p>Minhas principais Soft Skills são:</p>
 <ul>
   <li>Iniciativa (-Deixa comigo!)</li>
   <li>Facilidade em se comunicar (Sou praticamente um vereador do bairro)</li>
@@ -60,7 +60,7 @@ Minhas principais Soft Skills são:
 
 <p>I'm sure I'm ready to join a group and do what I've always done best, adapt, learn and evolve.</p>
 
-My main Soft Skills are:
+<p>My main Soft Skills are:</p>
 <ul>
   <li>Initiative (-Leave it to me!)</li>
   <li>Easy to communicate (I'm practically a city councilor)</li>
