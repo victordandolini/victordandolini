@@ -48,6 +48,7 @@
 
 <div>
 <h2>🇺🇸 en</h2>
+<img align="right" width="300em" src="https://c.tenor.com/_31gH9b_0VsAAAAC/usa-flag-american.gif">
 
 <p>Hello, my name is Victor Dandolini, I have a degree in Theology and Law, with a postgraduate degree in Public Security Management, Software Analysis and Development (Cursing) and Multiplatform Mobile Application Projects (Cursing).</p>
 
