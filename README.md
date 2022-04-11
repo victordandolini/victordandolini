@@ -18,7 +18,7 @@
 
 <img align="right" width="300em" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 <div>
-<h3>🇧🇷 pt-br</h3>
+<h2>🇧🇷 pt-br</h2>
 
 <p>Olá, meu nome é Victor Dandolini, sou formado em Teologia e Direito, com pós-graduação em Gestão de Segurança Publica, Analise e Desenvolvimento de Softwares (Cursando) e Projetos de Aplicativos Moveis Multiplataforma (Cursando).</p>
 
@@ -32,7 +32,7 @@
 
 <p>Tenho a certeza de que estou pronto para integrar um grupo e fazer oque sempre fiz de melhor, me adaptar, aprender e evoluir.</p>
 
-<h1><strong>Minhas principais Soft Skills são:</strong></h1>
+<h2><strong>Minhas principais Soft Skills são:</strong></h2>
 <ul>
   <li>Iniciativa (-Deixa comigo!)</li>
   <li>Facilidade em se comunicar (Sou praticamente um vereador do bairro)</li>
@@ -47,6 +47,7 @@
 </div>
 
 ##
+<h2>🇺🇸 en</h2>
 
 <p>Hello, my name is Victor Dandolini, I have a degree in Theology and Law, with a postgraduate degree in Public Security Management, Software Analysis and Development (Cursing) and Multiplatform Mobile Application Projects (Cursing).</p>
 
