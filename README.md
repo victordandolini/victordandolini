@@ -28,7 +28,7 @@ Em 2021 comecei a estudar programação algo que deveria ter feito a muito tempo
 
 Desde criança eu era um geek fascinado por computadores e tecnologia, sempre gostei de games e de desafios e competições. Acredito que a ciência e a tecnologia têm poder transformar o mundo e de forma significativa trazer qualidade de vida e conforto as pessoas.
 
-Venho realizando bootcamps da <a href="https://www.dio.me/"> DIO - Digital Innovation One</a> com diversas tecnologias, mas principalmente os relacionados a JavaScript e seus frameworks e bibliotecas.
+Venho realizando bootcamps da <a href="https://www.dio.me/"> DIO - Digital Innovation One</a> com diversas tecnologias, mas principalmente os relacionados a JavaScript e seus frameworks e bibliotecas. Claro também não posso esquecer dos excelentes canais do YouTube.
 
 Tenho a certeza de que estou pronto para integrar um grupo e fazer oque sempre fiz de melhor, me adaptar, aprender e evoluir.
 
@@ -47,9 +47,7 @@ Fique à vontade para me chamar e conhecer nos meus repositórios alguns projeto
 
 ##
 
-<h3>🇺🇸 en</h3>
-
-Hello, my name is Victor Dandolini, I am graduated in Theology and Law, with a postgraduate degree in Public Security Management, Software Analysis and Development and Multiplatform Mobile Application Projects.
+Hello, my name is Victor Dandolini, I have a degree in Theology and Law, with a postgraduate degree in Public Security Management, Software Analysis and Development (Cursing) and Multiplatform Mobile Application Projects (Cursing).
 
 I like to practice sports and have a balanced and healthy diet, of course I enjoy a good drink or a different food sometimes, I always try to be with my friends and family (including my 3 kittens), I watch series, play games of the moment and I like geek things on the internet. Happiness is not in things or people but in ourselves so let's live and dream what matters is our joy!
 
@@ -57,19 +55,19 @@ In 2021 I started to study programming something I should have done a long time 
 
 Since I was a child I was a geek fascinated by computers and technology, I always liked games and challenges and competitions. I believe that science and technology have the power to transform the world and significantly bring quality of life and comfort to people.
 
-I've been doing bootcamps from <a href="https://www.dio.me/"> DIO - Digital Innovation One</a> with different technologies, but mainly those related to JavaScript and its frameworks and libraries.
+I've been doing bootcamps from <a href="https://www.dio.me/"> DIO - Digital Innovation One</a> with different technologies, but mainly those related to JavaScript and its frameworks and libraries. Of course, I can't forget about the excellent YouTube channels either.
 
-I'm sure I'm ready to join a group and do what I've always done best from an early age, adapt, learn and evolve.
+I'm sure I'm ready to join a group and do what I've always done best, adapt, learn and evolve.
 
 My main Soft Skills are:
 <ul>
-  <li>Initiative (Leave it to me!)</li>
-  <li>Easy to communicate (I'm practically a neighborhood councilor)</li>
+  <li>Initiative (-Leave it to me!)</li>
+  <li>Easy to communicate (I'm practically a city councilor)</li>
   <li>Ability to learn the company's core development technologies ("-To Infinity and Beyond")</li>
   <li>Supporting colleagues and working as a team ("-One for all and all for one!")</li>
   <li>Openness to receive and give feedback (Say that I hear you)</li>
-  <li>Commitment to the result ("Mission given is mission accomplished")</li>
-  <li>Education and Respect (No need to comment)</li>
+  <li>Commitment to the result ("-Mission given is mission accomplished")</li>
+  <li>Education and Respect (This doesn't even need to be commented)</li>
  </ul>
 
 Feel free to call me and get to know in my repositories some projects used as a study, I'm always available and wanting to make friends, especially in the Tech area!
